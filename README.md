@@ -1,0 +1,2 @@
+# OsebnaStran
+SmartNinja vaja
